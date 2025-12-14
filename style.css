@@ -131,4 +131,7 @@ img{
         height: 25rem;
         /* margin: 20px 0; */
     }
+    .img-box{
+        padding: 20px;
+    }
 }
