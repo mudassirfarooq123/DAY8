@@ -132,6 +132,7 @@ img{
         /* margin: 20px 0; */
     }
     .img-box{
-        padding: 30px;
+        padding-left: 30px;
+        padding-right: 30px;
     }
 }
