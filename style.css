@@ -131,6 +131,9 @@ img{
         height: 25rem;
         padding-left: 30px;
         padding-right: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
     /* img{
         padding-left: 30px;
