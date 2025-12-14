@@ -129,6 +129,6 @@ img{
     .card-2 {
         width: 100%;
         height: 25rem;
-        margin: 20px 0;
+        /* margin: 20px 0; */
     }
 }
